@@ -1,5 +1,6 @@
 <h1 align="left">Hi, I'm Luís Augusto </h1>
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=luisaugustorocha&color=yellow" alt="Profile views" /> </p>
+<h3 align="left">💻 Future Frontend Developer 💻</h3>
 
 ## :iphone: &nbsp;Social Links
 
@@ -33,5 +34,3 @@
 </p>
 
 <br>
-
-![Snake animation](https://github.com/nicholaslim/nicholaslima/blob/output/github-contribution-grid-snake.svg)
